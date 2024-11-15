@@ -2,6 +2,9 @@
 Cv-Gassmi-Saddem
 
 # PRESENTATION
+
+Technicien superieur en Télécommunication
+
 # CONTACT
 
 Mail : gassmi.saddem@gmail.com  
