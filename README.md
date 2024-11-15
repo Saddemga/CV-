@@ -1,15 +1,17 @@
 
 Cv-Gassmi-Saddem
+![photo de moi](https://github.com/Saddemga/CV-/blob/main/saddem.jpg)  
 
 # PRESENTATION
 
 Technicien superieur en Télécommunication
 
+
 # CONTACT
 
 Mail : gassmi.saddem@gmail.com  
 
-![photo de moi](https://github.com/Saddemga/CV-/blob/main/saddem.jpg)  
+
 # Education
 
 **2010 - 2013**
