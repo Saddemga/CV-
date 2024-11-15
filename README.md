@@ -9,7 +9,7 @@ Mail : gassmi.saddem@gmail.com
 
 **2010 - 2013**
 
-*Licence Appliqué en technologies de l'information et en télécommunication
+Licence Appliqué en technologies de l'information et en télécommunication
 
 **2009 - 2010**
 
@@ -31,11 +31,12 @@ Baccalauréat en sciences technique
 **Avr 2014 -Mai 2017** 
 
 Technicien informatique 
-*ITesLab Tunisie
+ITesLab Tunisie
 
-**Fév 2013 -Juin 2013** 
+**Fév 2013 -Juin 2013**
+ 
  Stage Technicien informatique 
-*ISIMM Tunisie
+ ISIMM Tunisie
 
 # HOBBIES
 
